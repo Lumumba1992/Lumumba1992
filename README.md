@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi there am Lumumba Wandera Victor, the Founder of Beyond Data Analytics 
 
-<!--
-**Lumumba1992/Lumumba1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Researcher | Data Scientist | Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about applying Machine Learning and Data Analytics to solve real-world problems. My research interests span across a wide range of topics, including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Time Series Analysis (Univariate & Multivariate)
+- Survival Analysis & Response Surface Methodology
+- Predictive Modeling for Mental Health and Malaria Detection
+- Econometric Analysis with a focus on ESG and financial performance
+- Statistical Analysis using tools like SPSS, R, Python, and more
+Currently, I'm working on projects like:
+
+- Mental Health Prediction among Chuka University Students Using Machine Learning
+- Sustainable TVET Funding Models Using Predictive Analytics
+- Malaria Modeling for Decision Support in Africa
+I enjoy sharing my knowledge through workshops and training sessions on RStudio, Python, and deep learning for image classification.
+
+Let's collaborate and build something impactful! 💡
