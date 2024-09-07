@@ -15,6 +15,7 @@ I'm passionate about applying Machine Learning and Data Analytics to solve real-
 - Mental Health Prediction among Chuka University Students Using Machine Learning
 - Sustainable TVET Funding Models Using Predictive Analytics
 - Malaria Modeling for Decision Support in Africa
+
 I enjoy sharing my knowledge through workshops and training sessions on RStudio, Python, and deep learning for image classification.
 
 Let's collaborate and build something impactful! 💡
