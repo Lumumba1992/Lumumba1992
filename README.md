@@ -19,3 +19,6 @@ I'm passionate about applying Machine Learning and Data Analytics to solve real-
 I enjoy sharing my knowledge through workshops and training sessions on RStudio, Python, and deep learning for image classification.
 
 Let's collaborate and build something impactful! 💡
+
+![MY GIF](https://github.com/Lumumba1992/GIF-FILES.gif)
+
