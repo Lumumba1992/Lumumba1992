@@ -1,4 +1,4 @@
-# **👋 Hi there am Lumumba Wandera Victor, the Founder of Beyond Data Analytics**
+# **👋 Hi there, I am Lumumba Wandera Victor, the Founder of Beyond Data Analytics**
 
 🎓 Researcher | Data Scientist | Machine Learning Enthusiast
 
