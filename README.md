@@ -20,5 +20,5 @@ I enjoy sharing my knowledge through workshops and training sessions on RStudio,
 
 Let's collaborate and build something impactful! 💡
 
-![MY GIF](https://github.com/Lumumba1992/GIF-FILES/blob/main/MY%20GIF.gif)
+![myprofile](https://github.com/Lumumba1992/GIF-FILES/blob/main/myprofile.png)
 
