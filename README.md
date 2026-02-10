@@ -45,10 +45,10 @@ I build **statistically rigorous, explainable ML systems** that translate comple
 ## 💻 Technical Expertise
 
 ### Core Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Python](https://www.python.org/downloads/)
+![R](https://cran.rstudio.com/)
+![SQL](https://www.mysql.com/downloads/)
+![LaTeX](https://www.overleaf.com/project)
 
 ### Specialized Methods
 | Category | Techniques & Tools |
