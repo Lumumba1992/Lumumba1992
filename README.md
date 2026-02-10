@@ -1,4 +1,4 @@
-# 👋 Mr. VICTOR WANDERA LUMUMBA | FOUNDER, BEYOND DATA ANALYTICS
+# 👋 Mr. Victor Wandera Lumumba | Founder, Beyond Data Analytics
 
 > **Building Explainable AI for Public Health & Climate Resilience in Kenya** 🇰🇪🌍
 
