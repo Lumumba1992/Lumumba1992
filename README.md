@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Website-beyonddataanalytics.online-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://beyonddataanalytics.online)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=wy6ca4)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/YOUR_PROFILE_LINK)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Your-Profile-Here)
 [![Email](https://img.shields.io/badge/Gmail-lumumbavictor172@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lumumbavictor172@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lumumba1992)
 
